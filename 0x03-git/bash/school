@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "School"
-this sucks
+echo "The school is open"
